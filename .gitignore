@@ -1,0 +1,29 @@
+# Dependencies
+/node_modules
+
+# Environment variables — NEVER commit these
+.env
+.env.local
+.env.*.local
+
+# Build output
+/dist
+
+# Personal documents — do not commit
+*.pdf
+
+# Editor and OS files
+.DS_Store
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
