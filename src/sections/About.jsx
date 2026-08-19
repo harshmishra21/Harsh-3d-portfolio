@@ -85,7 +85,7 @@ const About = () => {
             />
             <Card
               style={{ rotate: "20deg", top: "10%", left: "55%" }}
-              image="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg"
+              image="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
               containerRef={grid2Container}
             />
             <Card
