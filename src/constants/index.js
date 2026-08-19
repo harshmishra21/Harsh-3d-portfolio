@@ -72,7 +72,7 @@ export const experiences = [
   {
     title: "Student Ambassador",
     job: "LetsUpgrade",
-    date: "Feb 2025 - Present",
+    date: "Feb 2025 - Apr 2025",
     contents: [
       "Actively representing LetsUpgrade in the student community.",
       "Promoting learning and building scalable real-world software solutions.",
@@ -87,16 +87,6 @@ export const experiences = [
       "Participated in comprehensive training and hands-on projects.",
       "Gained experience in Full-Stack development and Generative AI applications.",
       "Developed clean, optimized, and well-documented code.",
-    ],
-  },
-  {
-    title: "BTech CSE",
-    job: "ITM Skills University",
-    date: "Aug 2024 - Dec 2028",
-    contents: [
-      "Currently pursuing Bachelor of Technology in Computer Science Engineering.",
-      "Focusing on Data Structures and Algorithms (C++) and AI/ML fundamentals.",
-      "Building at the intersection of Full Stack, DSA, and Generative AI.",
     ],
   },
 ];
