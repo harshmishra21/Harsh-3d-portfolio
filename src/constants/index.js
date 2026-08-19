@@ -63,7 +63,7 @@ export const mySocials = [
   },
   {
     name: "Linkedin",
-    href: "https://www.linkedin.com/in/harsh-mishra-0352a9321",
+    href: "https://www.linkedin.com/in/harsh-mishra21",
     icon: "/assets/socials/linkedIn.svg",
   },
 ];
